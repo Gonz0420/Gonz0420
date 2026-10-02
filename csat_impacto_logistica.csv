@@ -1,0 +1,4 @@
+delivery_status,total_orders,avg_csat,median_csat,std_csat,avg_delivery_days,avg_estimated_days
+Delayed,16886,3.22,3.2,0.44,6.83,4.31
+Early,9757,4.02,4.0,0.43,2.93,4.29
+On Time,86916,3.73,3.7,0.44,4.3,4.3
